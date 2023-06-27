@@ -18,5 +18,6 @@ Thing | code with
 ![](https://img.shields.io/badge/Node.js-14-green?style=for-the-badge&logo=node.js&logoColor=green)
 ![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)
 
-### About me
-  一个野仔
+#### 🌈  About me
+
+  人生乱套我睡觉💨😴
