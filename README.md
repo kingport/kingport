@@ -5,29 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=1000&lines=%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;AI+Workflow+%E6%8E%A2%E7%B4%A2%E8%80%85;Web3+%E6%8A%80%E6%9C%AF%E7%88%B1%E5%A5%BD%E8%80%85;%E5%96%9C%E6%AC%A2%E6%8A%8A%E5%A4%8D%E6%9D%82%E4%B8%9A%E5%8A%A1%E5%81%9A%E6%88%90%E6%B8%85%E6%99%B0%E7%9A%84%E4%BA%A7%E5%93%81%E4%B8%8E%E4%BB%A3%E7%A0%81" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingport&show_icons=true&theme=radical&hide_border=true" alt="GitHub 数据" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingport&layout=compact&theme=radical&hide_border=true" alt="常用语言" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingport&theme=radical&hide_border=true" alt="GitHub 连续提交" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kingport&show_icons=true&theme=radical&hide_border=true" alt="GitHub 数据" height="165" />
 </p>
 
 ---
 
 ## 🌈 关于我
 
-```txt
-专注前端开发、后台系统、通用能力建设与 AI 驱动开发效率提升
-```
-
 - 目前主要从事前端开发、核心业务系统建设与平台化能力沉淀
 - 擅长后台管理系统、复杂业务交互、组件抽象与工程化优化
-- 对 AI Coding Workflow、自动化工具、Web3 技术保持持续关注
+- 持续关注 AI Coding Workflow、自动化工具与研发效率提升
 - 喜欢把复杂流程、重复逻辑和零散需求收敛成可复用、可维护的工程方案
 
 > 人生乱套我睡觉💨😴
@@ -39,7 +26,7 @@
 - 👨‍💻 职业方向：前端开发工程师
 - 🧠 关注领域：前端工程化、业务平台、组件体系、AI 工作流、自动化提效
 - 🔗 技术兴趣：React / Vue / TypeScript / Node.js / Web3 / AI 辅助开发
-- 🚀 工作特点：注重代码质量、抽象复用、产品体验与团队协作效率
+- 🚀 工作特点：注重代码质量、交互体验、抽象复用与长期维护性
 - 📌 目标：持续提升系统设计能力与产品落地能力，做更长期有价值的技术建设
 
 ---
@@ -55,7 +42,7 @@
 
 - **主导公司内部 UI 组件库建设**
   - 从 0 到 1 起草并研发公司内部通用 UI 组件库，结合公司品牌设计规范，统一视觉与交互标准
-  - 推动组件库在多个内部系统中复用落地，提升系统一致性、开发效率和维护性
+  - 推动组件库在多个内部系统中复用落地，提升系统一致性、开发效率与维护性
   - 将原先偏项目制的页面开发模式逐步沉淀为可复用的前端基础能力
 
 - **主导试算组件 SDK 平台化建设**
@@ -68,8 +55,16 @@
   - 持续推动前端能力由“单点开发”向“通用复用、标准沉淀、平台协同”演进
   - 在业务快速迭代背景下平衡交付效率、代码质量与长期维护成本
 
-#### 关键词
-`核心交易系统` `组件库建设` `SDK 平台化` `前端工程化` `业务抽象` `跨系统复用`
+---
+
+## 🏆 项目亮点 / 代表能力
+
+- **复杂业务系统开发能力**：具备核心交易系统、后台管理系统及流程型业务平台的前端开发经验，能够快速理解复杂业务规则并完成高质量落地。
+- **前端基础设施建设能力**：具备从 0 到 1 推进通用 UI 组件库建设的经验，能够结合品牌规范与业务需求沉淀可复用的设计与开发体系。
+- **平台化抽象能力**：善于识别多业务线中的重复场景，将分散逻辑抽象为统一组件、SDK 或通用模块，提升整体复用率与研发效率。
+- **工程化治理能力**：关注项目结构、组件边界、代码可维护性与协作效率，具备持续优化前端工程体系的意识与实践能力。
+- **业务交付与体验平衡能力**：既关注需求落地效率，也重视交互体验、代码质量与长期可维护性，能够在业务推进与技术治理之间取得平衡。
+- **AI 辅助研发实践能力**：持续探索 AI 在开发工作流中的实际价值，关注智能工具在代码生成、问题排查、知识沉淀和自动化流程中的应用。
 
 ---
 
@@ -121,27 +116,18 @@
 
 ## 📌 当前关注方向
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84-0ea5e9?style=flat-square" />
-  <img src="https://img.shields.io/badge/%E5%B7%A5%E7%A8%8B%E5%8C%96-8b5cf6?style=flat-square" />
-  <img src="https://img.shields.io/badge/%E7%BB%84%E4%BB%B6%E4%BD%93%E7%B3%BB-10b981?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20%E5%B7%A5%E4%BD%9C%E6%B5%81-f59e0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web3-ec4899?style=flat-square" />
-</p>
-
----
-
-## 📈 GitHub 数据
-
-- 持续记录学习与实践
-- 注重把零散经验沉淀成可复用的方法
-- 偏好做有业务价值、能长期复用的技术建设
+- 前端架构
+- 工程化建设
+- 组件体系与平台化
+- AI 工作流
+- 自动化提效
+- Web3 技术实践
 
 ---
 
 ## 🤝 联系我
 
-<p align="center">
+<p>
   <a href="https://github.com/kingport">
     <img src="https://img.shields.io/badge/GitHub-kingport-181717?style=for-the-badge&logo=github" />
   </a>
