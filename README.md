@@ -4,9 +4,6 @@
   前端开发工程师 / AI 工作流探索者 / 工程效率实践者
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingport&show_icons=true&theme=radical&hide_border=true" alt="GitHub 数据" height="165" />
-</p>
 
 ---
 
